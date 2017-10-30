@@ -1,1 +1,1 @@
-# scrumWork 这是我们团队的第一个ScrumWork 是一个成绩登陆查询系统
+# scrumWork 这是我们团队的第一个ScrumWork 是一个用学号和身份证后六位登陆的成绩查询系统
